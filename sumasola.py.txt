@@ -1,0 +1,5 @@
+num1= 1234
+num2=532
+sum=0
+suma=num1+num2
+print("El resultado de la suma es:",suma)

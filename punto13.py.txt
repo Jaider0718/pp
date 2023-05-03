@@ -1,0 +1,13 @@
+ 
+print("Longitud y Area")
+#entrada 
+import math 
+radio = float(input("Ingrese la medida del radio: "))
+
+#proceso 
+longitud = 2 * math.pi * radio
+area = math.pi * radio ** 2
+
+#salida 
+print(" El resultado de la longitud es: ", longitud)
+print(" El resultado del area es: ", area)

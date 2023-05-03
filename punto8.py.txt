@@ -1,0 +1,12 @@
+print("Porcentaje de 1234 y 532")
+
+#entrada
+num1 = 1234
+num2 = 532
+
+#proceso
+porcent = (num1 % num2)
+
+#salida
+print("El resultado del porcentaje es: ", porcent
+

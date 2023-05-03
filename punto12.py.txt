@@ -1,0 +1,13 @@
+print("Area y voluen de un cilindro")
+
+#entrada
+altura = float(input("Ingrese el valor de la altura del cilindro: "))
+radio = float(input("Ingrese el valor del radio de su cilindro: "))
+
+#proceso
+area = (2 * 3.1416 * radio * (radio + altura))
+vol = (3.1416 * radio ** 2 * altura)
+
+#salida
+print("El area del cilindro es: ", area)
+print("El volumen del cilindro es: ", vol)

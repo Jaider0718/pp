@@ -1,0 +1,11 @@
+print("Carcular el area de un rectangulo")
+
+#entrada
+largo = float(input("Ingrese el largo de la figura: "))
+ancho = float(input("Ingrese el archo de la figura: "))
+
+#proceso
+area = (largo * ancho)
+
+#salida
+print("El area de la figura es: ", area)

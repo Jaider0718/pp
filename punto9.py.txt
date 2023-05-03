@@ -1,0 +1,12 @@
+print("Convertir euros a dolares")
+
+#entrada
+euros = float(input("Ingrese la cantidad que desea covertir: "))    
+
+#proceso
+num = 1.10  
+dolares = (euros * num)
+
+#salida
+print("La convercion a dolares es: ", dolares)
+

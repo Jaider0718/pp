@@ -1,0 +1,12 @@
+print("Promedio")
+
+#entrada
+num1 = float(input("Ingrese el primer valor: "))
+num2 = float(input("Ingrese el segundo valor: "))
+num3 = float(input("Ingrese el tercer valor: "))
+
+#proceso 
+promedio = (num1 + num2 + num3) / 3
+
+#salida
+print("El promedio de los valores es: ", promedio)
